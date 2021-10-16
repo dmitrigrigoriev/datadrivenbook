@@ -1,3 +1,0 @@
-Files not translated into R
-  * CH01_SEC07_3 - it's strange, but there is no good function for matrix rotation like in Matlab or Python. 
-    I have no much experience in image processing in R. All rotate functions which I've checked don't work really well.

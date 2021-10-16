@@ -1,0 +1,6 @@
+Files not translated into R
+  * CH01_SEC07_3 - it's strange, but there is no good function for matrix rotation like in Matlab or Python. 
+    I have no much experience in image processing in R. All rotate functions which I've checked don't work really well.
+
+  * CH02_SEC03_1_FFTHeat_R is not finished, since I've got the problems with 3d plots
+  * CH02_SEC03_1_FFWave and CH02_SEC03_1_FFTBurgers also are not translated
